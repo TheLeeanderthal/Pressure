@@ -1,0 +1,11 @@
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\bin\Debug\Pressure.exe.config
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\bin\Debug\Pressure.exe
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\bin\Debug\Pressure.pdb
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\bin\Debug\Engine.dll
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\bin\Debug\Engine.pdb
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.Properties.Resources.resources
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.exe
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.pdb
+C:\Users\Chris\Desktop\homework\GroupProject\Pressure\Pressure\obj\Debug\Pressure.Pressure.resources
