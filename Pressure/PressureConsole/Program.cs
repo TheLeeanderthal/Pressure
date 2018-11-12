@@ -407,15 +407,6 @@ namespace PressureConsole
 
         private static void LoadGameData()
         {
-            if (File.Exists(PLAYER_DATA_FILE_NAME))
-            {
-                _player = Player.CreatePlayerFromXmlString(File.ReadAllText(PLAYER_DATA_FILE_NAME));
-            }
-            else
-            {
-                _player = Player.CreateDefaultPlayer();
-            }
-
             /*_player = PlayerDataMapper.CreateFromDatabase();
 
             if (_player == null)
@@ -433,8 +424,6 @@ namespace PressureConsole
 
         private static void SaveGameData()
         {
-            File.WriteAllText(PLAYER_DATA_FILE_NAME, _player.ToXmlString());
-
             /*File.WriteAllText(PLAYER_DATA_FILE_NAME, _player.ToXmlString());
 
             PlayerDataMapper.SaveToDatabase(_player);*/
