@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Engine
 {
-    class PlayerDataMapper
+    public class PlayerDataMapper
     {
         private static readonly string _connectionString = "Data Source=C:\\Users\\Chris\\Desktop\\PRESSURE\\Pressure\\Pressure\\PressureDB.sdf";
 
