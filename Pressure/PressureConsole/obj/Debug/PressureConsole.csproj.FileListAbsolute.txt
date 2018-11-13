@@ -8,3 +8,11 @@ C:\Users\standard\Documents\GitHub\Pressure\Pressure\PressureConsole\obj\Debug\P
 C:\Users\standard\Documents\GitHub\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.csproj.CopyComplete
 C:\Users\standard\Documents\GitHub\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.exe
 C:\Users\standard\Documents\GitHub\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.pdb
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\bin\Debug\PressureConsole.exe.config
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\bin\Debug\PressureConsole.exe
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\bin\Debug\PressureConsole.pdb
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\bin\Debug\Engine.dll
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\bin\Debug\Engine.pdb
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.exe
+C:\Users\Chris\Desktop\PRESSURE\Pressure\Pressure\PressureConsole\obj\Debug\PressureConsole.pdb
